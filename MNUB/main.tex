@@ -1,7 +1,7 @@
 % Documentation for front page:
 % https://github.com/martinhelso/mnfrontpage
 
-\documentclass[a4paper,american,final]{memoir}
+\documentclass[a4paper,spanish,final]{memoir}
 % Add [final] to remove marginal notes
 
 \usepackage{style}       % Custom style
@@ -24,7 +24,6 @@
 \usepackage{xcolor}
 \usepackage{listings}
 \usepackage{caption}
-
 
 \lstset{language=Matlab,breaklines=true}
 
@@ -57,8 +56,9 @@
     sections/chapter1,
     sections/chapter2,
     sections/chapter3,
-    sections/appendixA,
-    sections/appendixB,
+    sections/chapter4,
+    %sections/appendixA,
+    %sections/appendixB,
 }
 
 \begin{document}
@@ -88,9 +88,10 @@
     \include{sections/chapter1}
     \include{sections/chapter2}
     \include{sections/chapter3}
+    \include{sections/chapter4}
 
-    \appendix           % "Chapter" is renamed "Appendix"
-    \appendixpage       % Similar to \part*{Appendices}, but appears in TOC.
+    %\appendix           % "Chapter" is renamed "Appendix"
+    %\appendixpage       % Similar to \part*{Appendices}, but appears in TOC.
 
     \include{sections/appendixA}
     \include{sections/appendixB}
