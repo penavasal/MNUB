@@ -1,0 +1,29 @@
+\BOOKMARK [0][-]{chapter*.1}{Resumen}{}% 1
+\BOOKMARK [0][-]{section*.2}{\315ndice general}{}% 2
+\BOOKMARK [0][-]{section*.3}{\315ndice de figuras}{}% 3
+\BOOKMARK [0][-]{section*.4}{\315ndice de cuadros}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Modelo de elementos finitos para una fibra elastica 1D}{}% 5
+\BOOKMARK [1][-]{section.1.1}{Objetivos de la pr\341ctica}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Base te\363rica}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.3}{Disctretizaci\363n de las ecuaciones de gobierno}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.4}{Tareas para entregar}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.5}{Organizaci\363n del c\363digo }{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.6}{Primeros pasos}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.2}{Elementos finitos para biomec\341nica: problemas lineales}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Objetivos de la pr\341ctica}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Base te\363rica: Sistema matricial y El\341sticidad 3D}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Simulaci\363n de un femur sometido a compresi\363n}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.4}{Tareas para entregar}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{C\341lculo no lineal mediante elementos finitos}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Objetivos de la pr\341ctica}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.2}{Base te\363rica y soluci\363n anal\355tica}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.3}{Extensi\363n uniaxial homog\351nea con FEBiO}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.4}{Compresi\363n de una arteria con FEBiO}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.5}{Tareas para entregar}{chapter.3}% 22
+\BOOKMARK [0][-]{chapter.4}{Din\341mica de fluidos computacional \(CFD\)}{}% 23
+\BOOKMARK [1][-]{section.4.1}{Objetivos de la pr\341ctica}{chapter.4}% 24
+\BOOKMARK [1][-]{section.4.2}{Flujo de Poiseuille}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.3}{CFD en tubo recto}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.4}{CFD en tubo curvo}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.5}{Tareas para entregar}{chapter.4}% 28
+\BOOKMARK [0][-]{section*.100}{Bibliograf\355a}{}% 29

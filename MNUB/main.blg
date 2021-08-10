@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[67] biber-darwin:322> INFO - === Tue Aug 10, 2021, 17:23:39
+[79] Biber.pm:415> INFO - Reading 'main.bcf'
+[158] Biber.pm:943> INFO - Found 2 citekeys in bib section 0
+[169] Biber.pm:4256> INFO - Processing section 0
+[170] Utils.pm:75> INFO - Globbing data source 'bibliography.bib'
+[170] Utils.pm:91> INFO - Globbed data source 'bibliography.bib' to bibliography.bib
+[178] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[179] bibtex.pm:1653> INFO - LaTeX decoding ...
+[182] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography.bib'
+[204] UCollate.pm:68> INFO - Overriding locale 'nb_NO' defaults 'variable = shifted' with 'variable = non-ignorable'
+[205] UCollate.pm:68> INFO - Overriding locale 'nb_NO' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[205] Biber.pm:4084> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'nb_NO'
+[210] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[211] bbl.pm:755> INFO - Output to main.bbl
